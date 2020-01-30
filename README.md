@@ -1,4 +1,4 @@
-== Revibot for non-WMF wikis ==
+## Revibot for non-WMF wikis
 
 This is the configurations for the revibots running outside wikimedia wikis.
 
