@@ -1,0 +1,2 @@
+16 16 * * * python3 ~/miraheze-revibot/pwb.py archivebot autoarchive/config
+16 4 * * * python3 ~/femiwiki-revibot/pwb.py redirect double -always
